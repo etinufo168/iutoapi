@@ -1,0 +1,135 @@
+html{margin:0;padding:0;height:100%;overflow-x:hidden;}
+body{margin:0;padding:0;width:100%;min-width:1000px;overflow-x:hidden;}
+*{margin:0;padding:0;outline:none;}
+body, div, dl,dt,dd, ul,ol,li, h1,h2,h3,h4,h5,h6, pre, form,fieldset, input,textarea, a, p,blockquote, th,td{margin:0;padding:0;vertical-align:baseline;}
+#cssawards1{position:absolute;right:0px;top:0px;}
+#cssawards2 {position:absolute;right:0px;top:110px;}
+#cssawards3 {position:absolute;right:0px;top:180px;}
+#bloque-uno{width:100%;background:url(../../img/bloque1.jpg) 50% 0 no-repeat fixed;margin:0 0 0 0;height:1200px;overflow:hidden;}
+#bloque-uno img{left:0;position:absolute;top:0;}
+#bloque-uno h1{position:absolute;left:0;z-index:1000;text-align:center;top:400px;display:block;color:#fff !important;font-size:80px !important;z-index:100;line-height:80px;width:100%;text-transform:none !important;}
+#bloque-uno .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa1a.png) 50% 0 no-repeat fixed;}
+#bloque-uno .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa1b.png) 50% 0 no-repeat fixed;}
+#bloque-uno .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa1cb.png) 50% 0 no-repeat fixed;}
+#bloque-uno .bg4{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa1db.png) 50% 0 no-repeat fixed;}
+#bloque-uno .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa1eb.png) 50% 0 no-repeat fixed;}
+#bloque-uno .bg6{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa1fb.png) 50% 0 no-repeat fixed;}
+#bloque-dos{background:url(../../img/placa.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;width:100%;}
+#bloque-dos h1{color:#FFF;font-size:170%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:center;font-size-adjust:0;font-weight:normal !important;font-style:normal;position:absolute;top:130px;width:900px;height:300px;z-index:99999;letter-spacing:+1px;}
+#bloque-dos h2{color:#444;font-size:350%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:center;font-size-adjust:0;font-weight:normal !important;font-style:normal;position:absolute;top:150px;width:900px;height:300px;z-index:99999;}
+#bloque-dos h3{color:#444;font-size:90%;font-family:'Cabin', arial, serif;text-align:center;line-height:180% !important;position:absolute;top:212px;width:900px;height:300px;z-index:99999;letter-spacing:+1px;}
+#bloque-dos p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:center;line-height:130% !important;position:absolute;top:270px;width:900px;height:200px;z-index:99999;letter-spacing:+1px;}
+#bloque-dos .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/escarapela1b.png) 50% 0 no-repeat fixed;}
+#bloque-dos .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placab.png) 50% 0 no-repeat fixed;}
+#bloque-dos .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placac.png) 50% 0 no-repeat fixed;}
+#bloque-dos .bg4{position:absolute;width:1920px;height:1600px;top:0;left:0;}
+#bloque-dos .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placad.png) 50% 0 no-repeat fixed;}
+#bloque-tres{background:url(../../img/bloque3.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-tres h1{color:#d5be00;font-size:110%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:0px;}
+#bloque-tres h2{color:#d5be00;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:1px;}
+#bloque-tres p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:left;line-height:110% !important;margin:15px 0 0px 0;letter-spacing:1px;}
+#bloque-tres .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa3a.png) 50% 0 no-repeat fixed;}
+#bloque-tres .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa3b.png) 50% 0 no-repeat fixed;}
+#bloque-tres .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa3c.png) 50% 0 no-repeat fixed;}
+#bloque-tres .bg4{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa3d.png) 50% 0 no-repeat fixed;}
+#bloque-cuatro{background:url(../../img/placa2.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-cuatro h2{color:#FFF;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:center;font-size-adjust:0;font-weight:normal !important;font-style:normal;}
+#bloque-cuatro p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:center;line-height:120% !important;margin:10px 0 0px 0;}
+#bloque-cuatro .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/escarapela2b.png) 50% 0 no-repeat fixed;}
+#bloque-cuatro .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placab.png) 50% 0 no-repeat fixed;}
+#bloque-cuatro .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placac.png) 50% 0 no-repeat fixed;}
+#bloque-cuatro .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placad.png) 50% 0 no-repeat fixed;}
+#bloque-cinco{background:url(../../img/bloque5.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-cinco h1{color:#f783a1;font-size:110%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:0px;}
+#bloque-cinco h2{color:#f783a1;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:1px;}
+#bloque-cinco p{color:#fff;font-size:90%;font-family:'Cabin', arial, serif;text-align:left;line-height:110% !important;margin:15px 0 0px 0;letter-spacing:1px;}
+#bloque-cinco .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa5a.png) 50% 0 no-repeat fixed;}
+#bloque-cinco .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa5b.png) 50% 0 no-repeat fixed;}
+#bloque-cinco .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/) 50% 0 no-repeat fixed;}
+#bloque-cinco .bg4{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/) 50% 0 no-repeat fixed;}
+#bloque-cinco .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/) 50% 0 no-repeat fixed;}
+#bloque-seis{background:url(../../img/placa3.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-seis h2{color:#FFF;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:center;font-size-adjust:0;font-weight:normal !important;font-style:normal;}
+#bloque-seis p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:center;line-height:120% !important;margin:10px 0 0px 0;}
+#bloque-seis .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/escarapela3.png) 50% 0 no-repeat fixed;}
+#bloque-seis .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placab.png) 50% 0 no-repeat fixed;}
+#bloque-seis .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placac.png) 50% 0 no-repeat fixed;}
+#bloque-seis .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placad.png) 50% 0 no-repeat fixed;}
+#bloque-siete{background:url(../../img/bloque7.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-siete h1{color:#e5504a;font-size:110%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:0px;}
+#bloque-siete h2{color:#e5504a;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:1px;}
+#bloque-siete p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:left;line-height:110% !important;margin:15px 0 0px 0;letter-spacing:1px;}
+#bloque-siete .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa7a.png) 50% 0 no-repeat fixed;}
+#bloque-siete .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa7b.png) 50% 0 no-repeat fixed;}
+#bloque-siete .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/tester3.png) 50% 0 no-repeat fixed;}
+#bloque-ocho{background:url(../../img/placa4.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-ocho h2{color:#FFF;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:center;font-size-adjust:0;font-weight:normal !important;font-style:normal;}
+#bloque-ocho p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:center;line-height:120% !important;margin:10px 0 0px 0;}
+#bloque-ocho .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/escarapela4.png) 50% 0 no-repeat fixed;}
+#bloque-ocho .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placab.png) 50% 0 no-repeat fixed;}
+#bloque-ocho .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placac.png) 50% 0 no-repeat fixed;}
+#bloque-ocho .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placad.png) 50% 0 no-repeat fixed;}
+#bloque-nueve{background:url(../../img/bloque9.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-nueve h1{color:#16f2b7;font-size:110%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:0px;}
+#bloque-nueve h2{color:#16f2b7;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:90% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;letter-spacing:1px;}
+#bloque-nueve p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:left;line-height:110% !important;margin:15px 0 0px 0;letter-spacing:1px;}
+#bloque-nueve .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa9a.png) 50% 0 no-repeat fixed;}
+#bloque-nueve .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa9b.png) 50% 0 no-repeat fixed;}
+#bloque-nueve .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa9c.png) 50% 0 no-repeat fixed;}
+#bloque-nueve .bg4{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/capa9d.png) 50% 0 no-repeat fixed;}
+#bloque-diez{background:url(../../img/placa5.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-diez h2{color:#FFF;font-size:300%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:center;font-size-adjust:0;font-weight:normal !important;font-style:normal;}
+#bloque-diez p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:center;line-height:120% !important;margin:10px 0 0px 0;}
+#bloque-diez .bg{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/escarapela5.png) 50% 0 no-repeat fixed;}
+#bloque-diez .bg2{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placab.png) 50% 0 no-repeat fixed;}
+#bloque-diez .bg3{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placac.png) 50% 0 no-repeat fixed;}
+#bloque-diez .bg5{position:absolute;width:1920px;height:1600px;top:0;left:0;background:url(../../img/placad.png) 50% 0 no-repeat fixed;}
+#bloque-footer{background:url(../../img/bloque10.jpg) 50% 0 no-repeat fixed;margin:0;height:1200px;}
+#bloque-footer a{color:#edaa11!important;padding:0 !important;margin:0 !important;text-indent:1px !important;}
+#bloque-footer h1{color:#FFF;font-size:120%;font-family:'Bubblegum Sans', arial, serif;line-height:110% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;position:absolute;top:-142px;left:0px;width:900px;height:300px;z-index:99999;letter-spacing:+1px;}
+#bloque-footer h2{color:#edaa11;font-size:320%;font-family:'Bubblegum Sans', arial, serif;line-height:100% !important;text-align:left;font-size-adjust:0;font-weight:normal !important;font-style:normal;position:absolute;top:-123px;left:0px;width:900px;height:300px;z-index:99999;}
+#bloque-footer p{color:#FFF;font-size:90%;font-family:'Cabin', arial, serif;text-align:left;line-height:130% !important;margin:0 0 0px 0;position:absolute;top:-60px;left:0px;width:900px;height:300px;z-index:99999;letter-spacing:+1px;}
+#bloque-footer .bg{position:absolute;width:1920px;height:1400px;top:0;left:0;background:url(../../img/capa10b.png) 50% 0 no-repeat fixed;}
+#bloque-footer .bg2{position:absolute;width:1920px;height:1200px;top:0;left:0;background:url(../../img/capa9b.png) 50% 0 no-repeat fixed;}
+#bloque-footer .bg3{position:absolute;width:1920px;height:1200px;top:0;left:0;background:url(../../img/capa9c.png) 50% 0 no-repeat fixed;}
+#bloque-footer .bg4{position:absolute;width:1920px;height:1200px;top:0;left:0;background:url(../../img/capa9d.png) 50% 0 no-repeat fixed;}
+img{border:0}
+address, caption, cite, code, dfn, em, strong, th, var{font-style:normal;font-weight:normal;}
+ol,ul{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+article,aside,canvas,details,figcaption,figure, footer,header,hgroup,menu,nav,section,summary{display:block;}
+div#wrapper{width:100%;max-width:1920px;min-width:100px;padding:0;margin:0 auto;position:relative;background:white;}
+#masthead{width:1920px;margin:0 auto;height:550px;overflow:hidden;background:url(../../img/header.jpg) 0 0 no-repeat;}
+header#masthead h1{margin:50px 0 0 180px;display:block;background:url(../../img/iutopi-logo.png) 0 0 no-repeat;width:360px;height:244px;overflow:hidden;text-indent:-9000px;}
+nav#main{position:fixed;top:50%;z-index:999999;background:url(../../img/botonera.png) 0 100% no-repeat;width:90px;height:220px;right:-60px;}
+nav#main li{height:20px;position:relative;}
+nav#main a{display:block;width:18px;height:20px;background:url(../../img/botones.png) 0 100% no-repeat;text-indent:-9000px;overflow:hidden;}
+nav#main a:hover, nav#main li.active a { background-position: 0 0; }
+nav#main h1 { display: none; opacity: 0; position: absolute; left: 25px; top: -4px; white-space: nowrap; padding: 20 0 0 0px; }
+nav#main span { display: none; }
+nav#main li:hover h1 { xdisplay: block; }
+#canio{position:absolute;left:95px;height:1200px;width:100px;background:url(../../img/canio.png) 0 100% no-repeat;}
+#lang{position:relative;top:-295px;left:30%;height:65px;width:76px;background:url(../../img/lang.png) 0 100% no-repeat;text-decoration:none!important;}
+#lang h2{position:relative;top:8px;left:14px;height:31px;width:68px;font-family:'Bubblegum Sans', arial, serif;font-size:16px;color:#fff;font-weight:normal;text-decoration:none!important;}
+#lang a{text-decoration:none!important;}
+#counter{position:relative;top:58%;left:50%;margin-left:-80px;height:50px;width:200px;font-family:'Cabin', arial, serif;font-size:14px;color:#333;}
+.counter mark{color:#333;font-size:24px;text-indent:10px;font-size-adjust:none;text-decoration:none;background:none !important;font-family:'Cabin', arial, serif;}
+.bloque{min-height:900px;position:relative;width:100% !important;min-width:1000px;margin:0;padding:0;}
+.bloque article{width:900px;margin:0 auto;min-height:100%;position:relative;}
+.bloque header{position:absolute;left:100px;top:330px;width:700px;height:300px;z-index:99999;}
+.bloque .article-content{z-index:1;}
+.bloque header p{width:700px;color:black;font-size:15px;}
+.bloque header p a{color:#222;}
+.bloque header a{font-size:15px;color:#222 !important;}
+.bloque header a:hover{color:#000 !important;border-bottom:0;}
+.bloque h1{font-size:18px;font-weight:bold;letter-spacing:0px;font-weight:bold;color:white;margin:40 0 0px 0;line-height:15px;}
+.bloque header h2{font-size:24px;font-weight:bold;letter-spacing:0px;line-height:20px;margin:0 0 0 0;}
+footer{color:#ca7a17; background:url(../../img/placafinal.jpg) 50% 0 no-repeat fixed;height:300px;width:1870px!important;margin:0 auto 0 auto!important;padding:250px 0 0 160px!important;}
+footer a{color:#222;padding:0 !important;margin:0 !important;text-indent:1px !important;}
+footer a:hover{border-bottom:0!important;}
+.legal{margin:20px 0 0 500px!important;font-size:12px!important;color:#222;font-family:'Cabin', arial, serif;}
+#megusta{margin:-83px 0 0px 500px; z-index:99999999!important; float:left;}
+.clear-self:after{content:" ";display:block;clear:both;visibility:hidden;line-height:0;height:0;margin-bottom:0;}
+.clear-self{display:block;}
+html[xmlns] .clear-self{display:block;}
+* html .clear-self{height:1%;}
