@@ -6,7 +6,7 @@ fixed the right side bar not working in Chrome
 
 *problem:
 
-click events don't scoll the html
+click events don't scroll the html
 
 *solution:
 
